@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Codemonkk
 - 👀 I’m interested in making games🎮 apps📱 and websites👨‍💻 
-- 🌱 I’m currently learning all these skills
+- 🌱 I’m currently learning python and uploading my journey here!
 - 📫 How to reach me ... https://www.linkedin.com/in/utkarshkashyap7/
 
 <!---
